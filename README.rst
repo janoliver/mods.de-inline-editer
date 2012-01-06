@@ -9,3 +9,8 @@ der Post editiert und gespeichert werden. Besonders bei
 Rechtschreibfehlern, die niemand sehen soll, sehr gut geeignet.
 
 Unter Downloads findet ihr die Extension. Grüße, Oli
+
+Download
+========
+
+https://github.com/downloads/janoliver/mods.de-inline-editer/modsdeinline.crx
