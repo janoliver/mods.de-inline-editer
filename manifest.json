@@ -1,0 +1,11 @@
+{
+  "name": "mods.de inline editer",
+  "version": "1.0",
+  "description": "Lässt das Bearbeiten von Posts ohne Neu Laden der Seite zu.",
+  "icons": { "128": "icon.png" },
+  "content_scripts": [{ 
+      "matches": ["http://forum.mods.de/bb/thread.php*"], 
+      "js": ["jquery.js", "jquery.ui.js", "content.js"] 
+  }],
+  "homepage_url": "http://www.p0t.de"
+}
