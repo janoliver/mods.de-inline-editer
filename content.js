@@ -34,7 +34,7 @@ function escapeForQuery(str) {
 }
 
 // doubleclick event on some post
-$('.posttext').parent().dblclick(function(e) {
+$('.posttext').parent().live('dblclick', function(e) {
     e.preventDefault();
 
     var tab = $(this).parent().parent().parent();
